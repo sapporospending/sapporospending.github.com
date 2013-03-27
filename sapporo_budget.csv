@@ -1,1 +1,4 @@
-ａ
+category,category_id,subcategory,subcateogory_id,amount,year
+議会費,1,議会費,1.1,1701160000,2013
+総務費,2,総務費,2.1,30474193000,2013
+保健福祉費,3,保健福祉費,3.1,326518457000,2013
