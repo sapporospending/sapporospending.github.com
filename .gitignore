@@ -13,3 +13,7 @@ _site/*
 .bundle
 vendor
 
+
+.project
+
+.settings/org.eclipse.core.resources.prefs
