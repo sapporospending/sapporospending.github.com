@@ -35,6 +35,7 @@ yepnope({
            cuts: ['year:' + OpenSpending.year],
            rootNodeLabel: 'Total',
            breakdown: 'category',
+           order: 'category:asc|subcategory:asc',
            callback: function(data) {
 
             $('#content-wrap').show();
