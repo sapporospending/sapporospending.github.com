@@ -31,6 +31,8 @@ var OpenSpending = OpenSpending || {};
         out.drilldowns = value.split('|');
       } else if (key == 'cut') {
         out.cuts = value.split('|');
+      } else if (key == 'order') {
+        out.cuts = value.split('|');
       }
     });
     return out;
