@@ -32,7 +32,7 @@ var OpenSpending = OpenSpending || {};
       } else if (key == 'cut') {
         out.cuts = value.split('|');
       } else if (key == 'order') {
-        out.cuts = value.split('|');
+        out.order = value.split('|');
       }
     });
     return out;
